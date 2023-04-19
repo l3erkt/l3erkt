@@ -5,7 +5,7 @@ I am Web developer.
 --------------------------
 
 *   🌍  I'm based in Silver Spring, Maryland
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://l3erkt.github.io/Portfolio/'>Portfolio</a>
 *   🧠  Currently learning React
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
