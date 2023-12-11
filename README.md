@@ -6,7 +6,7 @@ I am Web / Email developer.
 
 *   🌍  I'm based in Silver Spring, Maryland
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://l3erkt.github.io/Portfolio/'>Portfolio</a>
-*   🧠  Currently learning React
+*   🧠  Currently learning React, Java
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
