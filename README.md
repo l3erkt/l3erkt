@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bereket Zeggai
 ========================================================================================================================================
 
-I am Web / Email developer.
+I am currently a student at the University of Maryland.
 --------------------------
 
 *   🌍  I'm based in Silver Spring, Maryland
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://l3erkt.github.io/Portfolio/'>Portfolio</a>
-*   🧠  Currently learning React, Python
+*   🧠  Currently learning Python
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
